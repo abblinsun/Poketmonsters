@@ -1,0 +1,15 @@
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\bin\Debug\net6.0\PoketMonstersProject.exe
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\bin\Debug\net6.0\PoketMonstersProject.deps.json
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\bin\Debug\net6.0\PoketMonstersProject.runtimeconfig.json
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\bin\Debug\net6.0\PoketMonstersProject.dll
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\bin\Debug\net6.0\PoketMonstersProject.pdb
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.csproj.AssemblyReference.cache
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.AssemblyInfoInputs.cache
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.AssemblyInfo.cs
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.csproj.CoreCompileInputs.cache
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.dll
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\refint\PoketMonstersProject.dll
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.pdb
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\PoketMonstersProject.genruntimeconfig.cache
+C:\Users\21linsun\source\repos\PoketMonstersProject\PoketMonstersProject\obj\Debug\net6.0\ref\PoketMonstersProject.dll
